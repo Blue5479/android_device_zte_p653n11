@@ -1,2 +1,4 @@
-# android_device_zte_p653n11
-Attempted TWRP recovery 
+# TWRP for ZTE V0721
+This is a TWRP recovery image for ZTE V0721. 
+# What Doesn't Work
+Touch (Too lazy to patch the kernel)
